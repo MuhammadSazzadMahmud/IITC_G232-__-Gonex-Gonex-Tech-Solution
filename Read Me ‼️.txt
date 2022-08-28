@@ -1,0 +1,87 @@
+
+			⁕⁕⁕ ‼️ Gonex - Tech Solution ‼️ ⁕⁕⁕
+
+	❗Template ID ⇒ IITC_G232
+
+	❗Color ⇒
+
+		1. # f95353
+
+		2. # 56c553
+
+		3. # 123f46
+
+		4. # 1a1a1a
+
+		5. # 000000
+
+		4. # ffffff (Background)
+
+
+	❗Fonts ⇒
+
+		1. Montserrat Bold
+		
+		2. Montserrat Regular
+	
+		3. Lora Regular 
+
+		
+		⁕⁕⁕ ⚠️ CSS Import
+
+			@import url('https://fonts.googleapis.com/css2?family=Lora&family=Montserrat:wght@400;700&display=swap');
+
+
+
+		⁕⁕⁕ ⚠️ CSS rules to specify families
+
+   			   font-family: 'Lora', serif;
+
+    			 font-family: 'Montserrat', sans-serif;
+
+		⁕⁕⁕ ⚠️ Lora Font Family Download 
+		
+			https://fonts.google.com/download?family=Lora
+
+		⁕⁕⁕ ⚠️ Montserrat Font Family Download 
+		
+			https://fonts.google.com/download?family=Montserrat
+
+
+	❗Icons ⇒
+
+		⚠️ Provided in the ".../Resources/icons" folder		
+
+
+
+	⁕⁕⁕ ❗ Additional Instructions ⇒ 
+
+
+		🔸 Website must have proper responsiveness
+
+		🔸 Classes & IDs has to be meaningful
+
+		🔸 Must use all necessary commments
+
+		
+
+	⁕⁕⁕ ❗ Submission Instructions ⇒ 
+		
+		 🔸Follow this post format when you submit your project to our official facebook group ( 💢 https://www.facebook.com/groups/iconic.it.club.bafsk )
+		
+			Name :
+
+			Class : 
+
+			Section :
+
+			Roll :
+
+			Template ID : IITC_G232
+
+			GitHub Repository :
+
+			GitHub Live Site :
+
+
+				© 2022, Iconic IT CLub - BAFSK

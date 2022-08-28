@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Montserrat:wght@400;700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", Lora;
+}
+
+.black-bg {
+    background-color: black;
+}
+
+.tiltedBlue{
+    background-color: #123f46;
+}
+
+.gray {
+    background-color: #1a1a1a;
+}
+
+.featured h3{
+    font-family: "MontserratBold";
+}
+
+.tiltedGreen{
+    color: #56c553;
+    font-size: 15px;
+}
+
+.hero h1 {
+    color: #f95353;
+    font-size: xx-large;
+}
+
+.hero p{
+    color: #ffffff;
+}
+
+.hero button {
+    background-color: #56c553;
+    font-family: "Montserrat", monospace;
+    border-radius: 0%;
+}
+
+.hero button:hover {
+    background-color: #13aa22;
+}
+
+.footer button{
+    background-color: #f95353;
+    border-radius: 0%;
+}
+
+.footer input{
+    border-radius: 0%;
+}
+
+.card div{
+    max-width: 100px;
+}
+
+.feature:hover{
+    background-color: #56c553;
+    color: #ffffff;
+}
+.feature a{
+    color: #000000;
+    font-weight: bold;
+}
